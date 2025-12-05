@@ -1,22 +1,21 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234353,100:36454f&height=120&section=header&text=Hey%20there%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=I'm+Mir+Saif+Ali+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Tomorrow's+Web+Today+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=MIR-2004&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MIR-2004?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" /> </div> <br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234353,100:36454f&height=120&section=header&text=Hey%20there%20👋&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/> </div> <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=I'm+Tushar+Pal+%F0%9F%9A%80;Full+Stack+Web+Developer+%F0%9F%92%BB;Building+Tomorrow's+Web+Today+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=MIR-2004&label=Profile%20Views&color=blueviolet&style=for-the-badge&labelColor=black" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MIR-2004?label=Followers&style=for-the-badge&color=blue&labelColor=black" alt="GitHub Followers" /> </div> <br>
 <div align="center">🦄 About Me</div>
 <div align="center">
-<span>🚀 Passionate Web Developer from India, Currently focused on Full Stack Development.</span>
+<span>🚀 Passionate python and automation developer.</span>
 <!-- gif -->
 <div align="center">
-    <img height="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG00YXFnZmg3MmR1eG5xOXNpY2IzZzIybnZ1aGw0MDl3cXB5dWR3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XcX3Ae8GSDWN1ciqqi/giphy.gif" />
+    <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHlpMTFueHQ0a25qdjJzZWkzbTJpaWJjeXg5Y3l0czcyOWc2NDNsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7m9QYSiUeURbKqOfS9/giphy.gif" />
 
 </div>
 </div> <br/>
 <div align="center">🌐 Connect With Me</div>
-<div align="center"> <a href="https://www.linkedin.com/in/tushar-pal-0a5451393/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/> </a> <a href="mailto:palt1562@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"/> </a> <a href="https://www.instagram.com/tusharpal673/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/> <a href="https://portfolio-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" style="border-radius: 10px;"/> </a> </div> <br>
+<div align="center"> <a href="https://www.linkedin.com/in/tushar-pal-2bab58253/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px;"/> </a> <a href="mailto:palt1562@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px;"/> </a> <a href="https://www.instagram.com/tusharpal673/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="border-radius: 10px;"/> <a href="https://portfolio-website.com" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" style="border-radius: 10px;"/> </a> </div> <br>
 
 
 <div align="center">🛠️ Tech Arsenal</div>
 <div align="center">
   <!-- Simpler, more stable than custom CSS animations on GitHub -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite,figma,nodejs,express,mongodb,mysql,postgresql,firebase,prisma,git,github,docker,vercel,vscode,postman,linux,windows,java,c,discord,sentry,npm&theme=dark&perline=14" alt="Tech stack icons"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,mysql,vscode,python,automation,&theme=dark&perline=14" alt="Tech stack icons"/>
 </div>
 
 <div align="center">📊 GitHub Analytics</div>
