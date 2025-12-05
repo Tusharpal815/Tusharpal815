@@ -20,23 +20,16 @@
 
 <div align="center">📊 GitHub Analytics</div>
 <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUSHAR-2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIR-2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tusharpal815&theme=tokyonight&hide_border=false&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=FFFFFF" alt="GitHub Streak"/> </div> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tusharpal815&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/> </div> <br/>
-<div align="center">🏆 GitHub Trophies</div>
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Tusharpal815&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/> </div> <br>
 
 <div align="center">⭐ Featured Projects</div>
 
 <div align="center">
-  <a href="https://github.com/Tusharpal815/twi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIR-2004&repo=Meet-AI&theme=tokyonight&hide_border=false&bg_color=#0D1117" alt="Meet-AI"/>
+  <a href="https://github.com/Tusharpal815/twiiter_sentiment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tusharpal815&repotwiiter_sentiment=&theme=tokyonight&hide_border=false&bg_color=#0D1117" alt="twiiter_sentiment"/>
   </a>
-  <a href="https://github.com/MIR-2004/NOVA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MIR-2004&repo=NOVA&theme=tokyonight&hide_border=false&bg_color=#0D1117" alt="NOVA"/>
-  </a>
+  
 </div>
  <br/>
 <div align="center">💭 Random Dev Quote</div>
 <div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/> </div> <br>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akash202004/MIR-2004/output/github-contribution-grid-snake.svg" />
-</div>
+
